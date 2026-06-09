@@ -1,49 +1,37 @@
 # -Algorithm-of-the-Day-
 Algorithm of the Day is a living media experiment where AI and humans co-create daily episodes. Each cycle blends real news, commentary, and free music into a ritual of knowledge. Episodes are archived, shared, and expanded as a global ensemble.
 
-# 🎙️ Алгоритъм на деня
+Algorithm of the Day
+A small experimental notebook exploring AI‑assisted media generation.
 
-## Въведение
-„Алгоритъм на деня“ е експериментална медия, която съчетава алгоритми, музика и коментари в ежедневни ритуали.  
-Целта е да се превърнат факти, новини и идеи в живи епизоди – едновременно образователни и поетични.
+Overview
+This repository contains an early experiment where AI tools (Copilot, Gemini, Colab) were used to generate short daily “algorithmic episodes” mixing text, data and simple audio.
 
-## 🌍 Мисия
-- Демистифициране на алгоритми и структури от данни.
-- Създаване на общност за обсъждане и споделяне.
-- Превръщане на знанието в ежедневен ритуал.
+Status
+The project is currently paused.
+The repository is kept for archival and experimentation purposes.
 
-## 📑 Формат на епизод
-1. **Пролог** – кратък звук или музикален мотив  
-2. **Факт** – актуална новина или знание  
-3. **Метафора** – превод на факта в образ/легенда  
-4. **Ритуал** – малко действие за слушателите  
-5. **Музика** – песен или плейлист, свързан с темата  
-6. **Въпрос към общността** – чиито отговори се четат в следващия епизод  
+Contents
+Algorithm_of_the_Day.ipynb — the original Colab notebook
 
-## 📂 Архивна структура
-- `/episodes/` – сценарии в Markdown формат  
-- `/audio/` – готови аудио записи (MP3)  
-- `/journal/` – индекс на епизодите (CSV)  
-- `/community/` – събрани отговори и коментари  
-- `/assets/` – музикални мотиви, графики  
+episodes/ — early drafts (not active)
 
-## 👥 Участници
-- 🤖 Copilot – сценарист и коментатор  
-- 🤖 Gemini – генератор на текст, код и данни  
-- 👤 Александар – диригент и архитект на проекта  
-- 👥 Общността – слушатели и участници  
+assets/ — placeholder graphics
+
+journal/ — index file (experimental)
+
+Tech
+Python
+
+Google Colab
+
+gTTS / pydub
+
+Feedparser
+
+Purpose
+This repo exists as a concept prototype, not a finished product.
 
 ## 🚀 Стартирай проекта
 Бележникът е достъпен в Google Colab:  
 👉 [Отвори „Algorithm of the Day“ в Colab](https://colab.research.google.com/drive/1QFMujrV8aajNQTwUCzmd_V74PKa_2e4L#scrollTo=vcm4SSi_BeoM)
-
-## 🛠️ Технологии
-- Python  
-- Jupyter / Google Colab  
-- gTTS, pydub, feedparser, Pillow  
-- GitHub за архив и версия  
-- Google Drive за съхранение  
-
-## 🎭 Визия
-„Алгоритъм на деня“ е жива сцена, където алгоритми и хора заедно създават нов тип медия:  
-не просто информация, а **ритуал на знанието и музиката**.
