@@ -32,6 +32,8 @@ Feedparser
 Purpose
 This repo exists as a concept prototype, not a finished product.
 
-## 🚀 Стартирай проекта
-Бележникът е достъпен в Google Colab:  
-👉 [Отвори „Algorithm of the Day“ в Colab](https://colab.research.google.com/drive/1QFMujrV8aajNQTwUCzmd_V74PKa_2e4L#scrollTo=vcm4SSi_BeoM)
+
+🚀 Launch the Project
+The notebook is available on Google Colab:
+
+👉 Open “Algorithm of the Day” in Colab
